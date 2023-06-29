@@ -1,3 +1,9 @@
+
+
+![btw](https://raw.githubusercontent.com/jegasape/cloud-storage-system/main/image.png)
+
+😉
+
 Instructions
 Your task is to implement a simple cloud storage system. All operations that should be supported are listed below.
 
@@ -69,3 +75,4 @@ Guaranteed constraints:
 [output] array.string
 
 An array of strings representing the returned values of queries.
+
